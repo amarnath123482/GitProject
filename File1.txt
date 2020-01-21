@@ -4,3 +4,6 @@ Welcome to git....
 
 change for feature - login
 
+change for feature - logout
+
+check to fix bug1
