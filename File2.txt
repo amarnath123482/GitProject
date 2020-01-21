@@ -2,7 +2,11 @@ change request1
 
 asfdg
 
-change the file to check push to remote server
+change 1 -> the file to check push to remote server
+
+change 2 -> from team member on remote server
+
+change 3 -> at local master
 
  from team member on remote server
 
