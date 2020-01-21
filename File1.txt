@@ -2,11 +2,12 @@ Hello World!!!
 
 Welcome to git....
 
-change for feature -> login
+change1 for feature -> login
 
-change for feature -> logout
+change2 for feature -> logout
 
 check to fix bug1
 
 check to fix bug2
 
+change3 from teammate for login 
